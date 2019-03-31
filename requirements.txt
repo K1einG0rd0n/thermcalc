@@ -1,2 +1,3 @@
 scipy==1.2.*
 matplotlib==3.*
+SchemDraw
